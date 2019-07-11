@@ -3,7 +3,7 @@ A basic usage example of the SurveyMonkey API in Python.
 
 ## Installing
 1. Create a new token.key and paste the Access Token of your SurveyMonkey app.
-2. Run 
+2. Edit `survey_monkey.py` to get what you want
 ```
 pip install surveymonkey-python
 ```

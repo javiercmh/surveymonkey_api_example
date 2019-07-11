@@ -8,4 +8,5 @@ A basic usage example of the SurveyMonkey API in Python.
 ```
 python3 survey_monkey.py
 ```
-https://developer.surveymonkey.com/api/v3/
+
+For more information regarding the API and all its endpoints: https://developer.surveymonkey.com/api/v3/
